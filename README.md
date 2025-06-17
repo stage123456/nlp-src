@@ -1,6 +1,6 @@
 # 派大星的自我介绍
 
-<img src="https://github.com/lzy-pan/GitDemo/blob/main/%E5%9B%BE%E7%89%87/20200812180313_ikevv.jpg" width="200" alt="派大星形象">
+<img src="https://github.com/stage123456/nlp-src/blob/main/20210526013035_4c036.png" width="200" alt="熊大形象">
 
 大家好，我是**熊大**，我的身份是森林里的大熊。以下是我的自我介绍：
 
