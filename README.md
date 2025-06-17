@@ -1,4 +1,4 @@
-# 派大星的自我介绍
+# 熊大的自我介绍
 
 <img src="https://github.com/stage123456/nlp-src/blob/main/20210526013035_4c036.png" width="200" alt="熊大形象">
 
